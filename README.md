@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Timing1999
+#### 👋 Hi, I’m @Timing1999
 
-一个平平无奇的Java开发
+一个平平无奇的Java开发  
+
 I just don't care it.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timing1999&count_private=true)
