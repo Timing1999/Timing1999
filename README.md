@@ -4,7 +4,7 @@
 
 I just don't care it.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timing1999&count_private=true)
+![Timing1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timing1999&count_private=true)
 
 
 
